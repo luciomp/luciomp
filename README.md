@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luciomp
+- 👀 I’m interested in Python, Mobile, IA
+- 🌱 I’m currently learning react-native
+- 📫 How to reach me: lucio.moratelli@gmail.com
